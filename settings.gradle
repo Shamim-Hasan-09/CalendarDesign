@@ -1,0 +1,2 @@
+rootProject.name = "CalendarDesign"
+include ':app'
